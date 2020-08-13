@@ -1,0 +1,273 @@
+Nagato,Above Waterline,26,None,N/A,Decent,410,28.67,7.00,BB
+Ashitaka,Waterline,26,None,N/A,Poor,410,28.67,7.00,BB
+Fuso,Waterline,26,102,Standard,Awful,356,24.90,6.00,BB
+Mutsu,Above Waterline,26,None,N/A,,410,28.67,6.00,BB
+Kongo,Waterline,19,76,Standard,Poor,356,24.90,5.00,BB
+Myoko,High,16,None,N/A,None,203,14.20,7.00,CA
+Eastern Dragon,High,16,None,N/A,None,203,14.20,7.00,CA
+Southern Dragon,High,16,None,N/A,None,203,14.20,7.00,CA
+Aoba,High and Exposed,16,None,N/A,None,203,14.20,6.00,CA
+Furutaka,High and Exposed,13,None,N/A,None,203,14.20,5.00,CA
+Yahagi,Above and Exposed,13,None,N/A,None,152,10.63,5.00,CL
+Akatsuki,N/A,16,None,N/A,None,127,8.88,7.00,DD
+Shiratsuyu,N/A,16,None,N/A,None,127,8.88,7.00,DD
+Yudachi,N/A,,None,N/A,None,127,8.88,7.00,DD
+Shinonome,N/A,16,None,N/A,None,127,8.88,6.00,DD
+Hatsuharu,N/A,16,None,N/A,None,127,8.88,6.00,DD
+Fubuki,N/A,16,None,N/A,None,127,8.88,6.00,DD
+Mutsuki,N/A,10,None,N/A,None,120,8.39,5.00,DD
+Fujin,N/A,,None,N/A,None,120,8.39,5.00,DD
+Minekaze,N/A,10,None,N/A,None,120,8.39,5.00,DD
+Kamikaze,N/A,,None,N/A,None,120,8.39,5.00,DD
+Colorado,Waterline,26,None,N/A,None,406,28.39,7.00,BB
+California,,,None,N/A,None,356,24.90,7.00,BB
+West Virginia 1941,Waterline,26,None,N/A,None,406,28.39,6.00,BB
+New Mexico,Waterline,26,None,N/A,Decent,356,24.90,6.00,BB
+Arizona,Waterline,26,None,N/A,Decent,356,24.90,6.00,BB
+New York,Waterline,19,None,N/A,None,356,24.90,5.00,BB
+Texas,Waterline,19,None,N/A,None,356,24.90,5.00,BB
+New Orleans,Above and Exposed,25,None,N/A,None,203,14.20,7.00,CA 
+Indianapolis,Above and Exposed,16,None,N/A,None,203,14.20,7.00,CA
+Pensacola,Above and Exposed,25,None,N/A,None,203,14.20,6.00,CA
+Atlanta,Above and Exposed,13,None,N/A,None,127,8.88,7.00,CL
+Flint,Above and Exposed,13,None,N/A,None,127,8.88,7.00,CL
+Boise,Waterline and Exposed,16,None,N/A,None,152,10.63,7.00,CL
+Helena,Waterline and Exposed,16,None,N/A,None,152,10.63,7.00,CL
+Dallas,Above and Exposed,16,None,N/A,None,152,10.63,6.00,CL
+Marblehead,High and Exposed,13,None,N/A,None,152,10.63,5.00,CL
+Omaha,High and Exposed,13,None,N/A,None,152,10.63,5.00,CL
+Sims,N/A,16,None,N/A,None,127,8.88,7.00,DD
+Mahan,N/A,16,None,N/A,None,127,8.88,7.00,DD
+Monaghan,N/A,16,None,N/A,None,127,8.88,6.00,DD
+Farragut,N/A,16,None,N/A,None,127,8.88,6.00,DD
+Hill,N/A,10,None,N/A,None,127,8.88,5.00,DD
+Nicholas,N/A,10,None,N/A,None,127,8.88,5.00,DD
+Nueve de Julio,Waterline and Exposed,16,None,N/A,None,152,10.63,7.00,CL
+Sinop,Above Waterline,26,113,Standard,Awful,406,28.39,7.00,BB
+Poltava,,,,,,356,24.90,7.00,BB
+Izmail,Above Waterline,26,113,Standard,Awful,356,24.90,6.00,BB
+Pyotr Velikiy,High,75,125,Full,Awful,356,24.90,5.00,BB
+Oktyabrskaya Revolutsiya,Waterline,19,125,Standard,Awful,305,21.33,5.00,BB
+Molotov,High and Exposed,16,None,N/A,None,180,12.59,6.00,CA
+Voroshilov,,,None,N/A,None,180,12.59,5.00,CA
+Mikoyan,Above and Exposed,13,None,N/A,None,180,12.59,5.00,CA
+Kirov,Above and Exposed,13,None,N/A,None,180,12.59,5.00,CA
+Lazo,Above and Exposed,16,20,Standard,None,152,10.63,7.00,CL
+Shchors,Above and Exposed,16,None,N/A,None,152,10.63,7.00,CL
+Budyonny,Above and Exposed,16,None,N/A,None,152,10.63,6.00,CL
+Admiral Makarov,,,None,N/A,None,150,10.49,6.00,CL
+Kotovsky,Above and Exposed,13,None,N/A,None,152,10.63,5.00,CL
+Krasny Krym,Waterline and Exposed,13,25,Standard,None,130,9.09,5.00,CL
+Murmansk,High and Exposed,13,None,N/A,None,152,10.63,5.00,CL
+Minsk,N/A,16,None,N/A,None,130,9.09,7.00,DD
+Leningrad,N/A,16,None,N/A,None,130,9.09,7.00,DD
+Gnevny,N/A,16,None,N/A,None,130,9.09,6.00,DD
+Podvoisky,N/A,10,None,N/A,None,130,9.09,5.00,DD
+Okhotnik,N/A,10,None,N/A,None,130,9.09,5.00,DD
+Gremyashchy,N/A,,None,N/A,None,130,9.09,5.00,DD
+Nelson,High,26,None,N/A,None,406,28.39,7.00,BB
+Hood,Underwater,26,127,Partial,None,381,26.64,7.00,BB
+Duke of York,Waterline and Exposed,26,None,N/A,None,356,24.90,7.00,BB
+King George V,Waterline and Exposed,26,None,N/A,None,356,24.90,7.00,BB
+Queen Elizabeth,Underwater,26,152,Partial,None,381,26.64,6.00,BB
+Warspite,Underwater,26,102,Partial,None,381,26.64,6.00,BB
+Iron Duke,Waterline,19,152,Partial,None,343,23.99,5.00,BB
+Surrey,Above and Exposed,16,None,N/A,None,203,14.20,7.00,CA
+Devonshire,Above and Exposed,16,None,N/A,None,203,14.20,6.00,CA
+London,Above and Exposed,16,None,N/A,None,203,14.20,6.00,CA
+Hawkins,High and Exposed,13,38,Standard,None,190,13.29,5.00,CA
+Exeter,Above and Exposed,13,None,N/A,None,203,14.20,5.00,CA
+Belfast,Waterline and Exposed,13,None,N/A,None,152,10.63,7.00,CL
+Fiji,Waterline and Exposed,13,None,N/A,None,152,10.63,7.00,CL
+Leander,Above and Exposed,13,None,N/A,None,152,10.63,6.00,CL
+Emerald,High and Exposed,13,38,Standard,None,152,10.63,5.00,CL
+Jervis,N/A,16,None,N/A,None,120,8.39,7.00,DD
+Gallant,N/A,16,None,N/A,None,120,8.39,6.00,DD
+Icarus,N/A,16,None,N/A,None,120,8.39,6.00,DD
+Acasta,N/A,10,None,N/A,None,120,8.39,5.00,DD
+Perth,Waterline and Exposed,16,None,N/A,None,152,10.63,6.00,CL
+Haida,N/A,16,None,N/A,None,120,8.39,7.00,DD
+Lyon,Underwater,26,180,Standard,Good,340,23.78,7.00,BB
+Normandy,Underwater,26,180,Standard,Good,340,23.78,6.00,BB
+Dunkerque,Waterline,26,None,N/A,Decent,330,23.08,6.00,BB
+Bretegne,Waterline,19,150,Standard,Decent,340,23.78,5.00,BB
+Algerie,High and Exposed,16,None,N/A,None,203,14.20,7.00,CA
+De Grasse,Above and Exposed,16,None,N/A,None,152,10.63,6.00,CL
+La Glassonniere,Above and Exposed,16,None,N/A,None,152,10.63,6.00,CL
+Emile Bertin,Above Waterline,13,None,N/A,None,152,10.63,5.00,CL
+Vauquelin,N/A,16,None,N/A,None,139,9.72,7.00,DD
+Aigle,N/A,16,None,N/A,None,139,9.72,6.00,DD
+Guepard,N/A,16,None,N/A,None,139,9.72,6.00,DD
+Jaguar,N/A,10,None,N/A,None,130,9.09,5.00,DD
+Siroco,N/A,10,None,N/A,None,130,9.09,5.00,DD
+Scharnhorst,Underwater,26,70,Standard,Good,283,19.79,7.00,BB
+Gneisenau,Underwater,26,70,Standard,Good,380,26.57,7.00,BB
+Bayern,Underwater,26,30,Standard,Good,380,26.57,6.00,BB
+Prinz Eitel Friedrich,Underwater,26,30,Waterline,None,350,24.48,6.00,BB
+Konig,Underwater,19,150,Standard,Decent,305,21.33,5.00,BB
+Yorck,Above Waterline,25,None,N/A,Poor,210,14.69,7.00,CA
+Graf Spee,Waterline,16,19,Standard,None,283,19.79,6.00,CA
+Munchen,,,None,,,150,10.49,7.00,CL
+Nurnberg,Above and Exposed,16,20,Standard,None,150,10.49,6.00,CL
+Konigsberg,Above Waterline,13,20,Standard,Poor,150,10.49,5.00,CL
+Z-39,N/A,19,None,,None,150,10.49,7.00,DD
+Leberecht Maass,N/A,16,None,,None,128,8.95,7.00,DD
+T-61,N/A,16,None,,None,128,8.95,6.00,DD
+Ernst Gaede,N/A,16,None,,None,150,10.49,6.00,DD
+T-22,N/A,10,None,,None,105,7.34,5.00,DD
+Giunio Bruto,,25,32,Full,None,320,22.38,6.00,BB
+Giulio Cesare,,25,32,Full,None,320,22.38,5.00,BB
+Gorizia,Above and Exposed,16,None,N/A,None,203,14.20,7.00,CA
+Zara,Above and Exposed,16,None,N/A,None,203,14.20,7.00,CA
+Trento,Above and Exposed,16,None,N/A,None,203,14.20,6.00,CA
+Genova,Above and Exposed,13,None,N/A,None,203,14.20,5.00,CA
+Duca degli Abruzzi,Above Waterline,16,30,Standard,None,152,10.63,7.00,CL
+Duca d'Aosta,Above Waterline,16,None,N/A,None,152,10.63,6.00,CL
+Raimondo Montecuccoli,Above and Exposed,13,None,N/A,None,152,10.63,5.00,CL
+Leone,N/A,,None,,None,120,8.39,6.00,DD
+Huanghe,Above and Exposed,16,None,,None,152,10.63,6.00,CL
+Gadjah Mada,N/A,16,None,,None,120,8.39,7.00,DD
+Anshan,N/A,16,None,,None,130,9.09,6.00,DD
+Fushun,N/A,16,None,,None,130,9.09,6.00,DD
+Jianwei,N/A,10,None,,None,120,8.39,5.00,DD
+Viribus Unitus,Above Waterline,19,110,Standard,Poor,305,21.33,5.00,BB
+Blyskawica,N/A,16,None,,None,120,8.39,7.00,DD
+Skane,N/A,16,None,,None,120,8.39,7.00,DD
+Vasteras,N/A,16,None,,None,120,8.39,6.00,DD
+Visby,N/A,10,None,,None,120,8.39,5.00,DD
+Yamato,High and Exposed,32,None,N/A,None,460,32.16783217,10,BB
+Shikishima,High and Exposed,32,None,N/A,None,510,35.66433566,10,BB
+Musashi,High and Exposed,32,None,N/A,None,460,32.16783217,9,BB
+Izumo,Waterline,32,None,N/A,Poor,410,28.67132867,9,BB
+Asama,,32,None,N/A,,410,28.67132867,8,BB
+Amagi,Underwater,32,None,N/A,None,410,28.67132867,8,BB
+Kii,Underwater,32,None,N/A,None,410,28.67132867,8,BB
+Yoshino,High,25,25,Standard,None,310,21.67832168,10,BC
+Azuma,High,25,25,Standard,None,310,21.67832168,9,BC
+Zao,Above Waterline,25,None,N/A,None,203,14.1958042,10,CA
+Ibuki,High and Exposed,25,None,N/A,None,203,14.1958042,9,CA
+Atago,Above and Exposed,25,None,N/A,None,203,14.1958042,8,CA
+Mogami,Above and Exposed,25,None,N/A,None,203,14.1958042,8,CA
+Shimakaze,N/A,19,None,N/A,None,127,8.881118881,10,DD
+Harugumo,N/A,19,None,N/A,None,100,6.993006993,10,DD
+Hayate,N/A,19,None,N/A,None,127,8.881118881,10,DD
+Kitikaze,N/A,19,None,N/A,None,100,6.993006993,9,DD
+Yugumo,N/A,19,None,N/A,None,127,8.881118881,9,DD
+Kagero,N/A,19,None,N/A,None,127,8.881118881,8,DD
+Asashio,N/A,19,None,N/A,None,127,8.881118881,8,DD
+HSF Harekaze,N/A,,None,N/A,None,127,8.881118881,8,DD
+Arashi,N/A,,None,N/A,None,150,10.48951049,8,DD
+Al Yukikaze,N/A,,None,N/A,None,127,8.881118881,8,DD
+Akizuki,N/A,19,None,N/A,None,100,6.993006993,8,DD
+Montana,Waterline and Exposed,32,None,N/A,None,406,28.39160839,10,BB
+Ohio,Waterline and Exposed,32,None,N/A,None,457,31.95804196,10,BB
+Georgia,Waterline,32,None,N/A,None,457,31.95804196,9,BB
+Iowa,Waterline,32,None,N/A,None,406,28.39160839,9,BB
+Missouri,Waterline,32,None,N/A,None,406,28.39160839,9,BB
+North Carolina,Underwater,32,None,N/A,None,406,28.39160839,8,BB
+Massachusetts,Underwater,32,None,N/A,None,406,28.39160839,8,BB
+Alabama,Underwater,32,None,N/A,None,406,28.39160839,8,BB
+Puerto Rico,Underwater,27,None,N/A,None,305,21.32867133,10,BC
+Alaska,Waterline,27,None,N/A,None,305,21.32867133,9,BC
+Salem,Above and Exposed,27,None,N/A,None,203,14.1958042,10,CA 
+Des Moines,Above and Exposed,27,None,N/A,None,203,14.1958042,10,CA
+Buffallo,Above and Exposed,27,None,N/A,None,203,14.1958042,9,CA
+Baltimore,Waterline and Exposed,27,None,N/A,None,203,14.1958042,8,CA
+Anchorage,,27,None,N/A,None,203,14.1958042,8,CA
+Wichita,Waterline and Exposed,27,None,N/A,None,203,14.1958042,8,CA
+Worcester,Above and Exposed,25,None,N/A,None,152,10.62937063,10,CL
+Seattle,Above and Exposed,25,None,N/A,None,152,10.62937063,9,CL
+Cleveland,Waterline and Exposed,25,None,N/A,None,152,10.62937063,8,CL
+Al Montepelier,,25,None,N/A,None,152,10.62937063,8,CL
+Somers,N/A,19,None,N/A,None,127,8.881118881,10,DD
+Gearing,N/A,19,None,N/A,None,127,8.881118881,10,DD
+Fletcher,N/A,19,None,N/A,None,127,8.881118881,9,DD
+Black,N/A,19,None,N/A,None,127,8.881118881,9,DD
+Benham,N/A,,None,N/A,None,127,8.881118881,9,DD
+Benson,N/A,19,None,N/A,None,127,8.881118881,8,DD
+Kidd,N/A,19,None,N/A,None,127,8.881118881,8,DD
+Kremlin,High and Exposed,32,60,Standard,None,457,31.95804196,10,BB
+Slava,High and Exposed,25,,,None,406,28.39160839,10,BB
+Zarya Svobody,,32,,,None,406,28.39160839,9,BB
+Sovetsky Soyuz,High,32,220,Partial,None,406,28.39160839,9,BB
+Borodino,,32,,,None,406,28.39160839,8,BB
+Vladivostock,Above and Exposed,32,200,Partial,None,406,28.39160839,8,BB
+Lenin,Above and Exposed,32,100,Standard,None,406,28.39160839,8,BB
+Stalingrad,High and Exposed,25,50,Standard,None,305,21.32867133,10,BC
+Kronstadt,Waterline,25,25,Waterline,None,305,21.32867133,9,BC
+Moskva,High and Exposed,25,50,Standard,None,220,15.38461538,10,CA
+Petropavlovsk,High,25,50,Standard,None,220,15.38461538,10,CA
+Riga,High,25,40,Standard,None,220,15.38461538,9,CA
+Pyotr Bagration,Above and Exposed,25,40,Standard,None,180,12.58741259,8,CA
+Tallin,Waterline,25,40,Standard,Poor,180,12.58741259,8,CA
+Smolensk,,16,None,N/A,None,130,9.090909091,10,CL
+Alexander Nevsky,Above Waterline,25,50,Standard,None,180,12.58741259,10,CL
+Dimitry Donskoi,Above Waterline,25,35,Partial,None,180,12.58741259,9,CL
+Ochakov,Above and Exposed,25,None,N/A,None,152,10.62937063,8,CL
+Mikhail Kutuzov,,,None,,None,152,10.62937063,8,CL
+Chapayev,Above and Exposed,25,25,Standard,None,152,10.62937063,8,CL
+Khabarovsk,N/A,19,None,N/A,None,130,9.090909091,10,DD
+Grozovoi,N/A,19,None,N/A,None,130,9.090909091,10,DD
+Neustrashimy,N/A,,None,N/A,None,130,9.090909091,9,DD
+Udaloi,N/A,19,None,N/A,None,130,9.090909091,9,DD
+Tashkent,N/A,19,None,N/A,None,130,9.090909091,9,DD
+Ognevoi,N/A,19,None,N/A,None,130,9.090909091,8,DD
+Kiev,N/A,19,None,N/A,None,130,9.090909091,8,DD
+Conquerer,Above and Exposed,32,None,N/A,None,419,29.3006993,10,BB
+Thunderer,Above and Exposed,32,None,N/A,None,457,31.95804196,10,BB
+Lion,Above and Exposed,32,None,N/A,None,419,29.3006993,9,BB
+Monarch,Waterline and Exposed,32,None,N/A,None,381,26.64335664,8,BB
+Vanguard,Waterline and Exposed,32,64,Partial,None,381,26.64335664,8,BB
+Goliath,Above Waterline,25,None,N/A,None,234,16.36363636,10,CA
+Drake,Above Waterline,25,None,N/A,None,234,16.36363636,9,CA
+Cheshire,,25,None,N/A,None,234,16.36363636,8,CA
+Ablemarle,High and Exposed,25,None,N/A,None,203,14.1958042,8,CA
+Minotaur,High and Exposed,16,None,N/A,None,152,10.62937063,10,CL
+Neptune,High and Exposed,16,None,N/A,None,152,10.62937063,9,CL
+Edinburough,Waterline and Exposed,16,None,N/A,None,152,10.62937063,8,CL
+Daring,N/A,19,None,N/A,None,113,7.902097902,10,DD
+Jutland,N/A,19,None,N/A,None,113,7.902097902,9,DD
+Lightning,N/A,19,None,N/A,None,120,8.391608392,8,DD
+Cossack,N/A,19,None,N/A,None,120,8.391608392,8,DD
+Republique,Waterline,32,None,N/A,Good,431,30.13986014,10,BB
+Bourgogne,Waterline,32,None,N/A,Good,380,26.57342657,10,BB
+Alsace,Waterline,32,None,N/A,Good,380,26.57342657,9,BB
+Jean Bart,Waterline,32,None,N/A,Good,380,26.57342657,9,BB
+Richeliue,Waterline,32,None,N/A,Good,380,26.57342657,8,BB
+Champagne,,25,None,N/A,,406,28.39160839,8,BB
+Gascogne,Waterline,32,None,N/A,Good,380,26.57342657,8,BB
+Brennus,,25,None,N/A,None,240,16.78321678,10,CA
+Henri IV,Above Waterline,25,None,N/A,None,240,16.78321678,10,CA
+Saint Louis,High and Exposed,25,None,N/A,None,203,14.1958042,9,CA
+Charles Martell,High and Exposed,25,None,N/A,None,203,14.1958042,8,CA
+Colbert,Above and Exposed,16,None,N/A,None,127,8.881118881,10,CL
+Bayard,Above Waterline,25,None,N/A,None,152,10.62937063,8,CL
+Kleber,N/A,19,None,N/A,None,139,9.72027972,10,DD
+Marceau,N/A,19,None,N/A,None,127,8.881118881,10,DD
+Mogador,N/A,19,None,N/A,None,139,9.72027972,9,DD
+Le Fantasque,N/A,19,None,N/A,None,139,9.72027972,8,DD
+L'Effronte,N/A,,None,N/A,None,139,9.72027972,8,DD
+Le Terrible,N/A,19,None,N/A,None,139,9.72027972,8,DD
+G. Kurfurst,Waterline,32,60,Full,Excellent,406,28.39160839,10,BB
+F. Der Grobe,Above Waterline,32,60,Full,Excellent,406,28.39160839,9,BB
+Pommern,,32,60,,,381,26.64335664,9,BB
+Bismarck,Above Waterline,32,60,Standard,Excellent,381,26.64335664,8,BB
+Tirpitz,Above Waterline,32,60,Standard,Excellent,381,26.64335664,8,BB
+Odin,,32,,,Good,305,21.32867133,8,BB
+Agir,Above Waterline,27,None,N/A,Decent,305,21.32867133,9,BC
+Sigfried,Above Waterline,27,None,N/A,Decent,381,26.64335664,9,BC
+Hindenburg,Waterline,27,40,Partial,Poor,203,14.1958042,10,CA
+Roon,Waterline,27,40,Partial,Poor,203,14.1958042,9,CA
+Hipper,Waterline,27,40,Standard,Poor,203,14.1958042,8,CA
+Prinze Eugen,Waterline,27,40,Partial,Poor,203,14.1958042,8,CA
+Mainz,Waterline,25,40,Standard,Poor,150,10.48951049,8,CL
+Z-52,N/A,19,None,N/A,None,128,8.951048951,10,DD
+Z-46,N/A,19,None,N/A,None,128,8.951048951,9,DD
+Z-35,N/A,,None,N/A,None,128,8.951048951,8,DD
+Z-23,N/A,19,None,N/A,None,150,10.48951049,8,DD
+Roma,Above Waterline,32,130,Partial,None,381,26.64335664,8,BB
+Impero,,32,,,None,381,26.64335664,8,BB
+Venezia,Above Waterline,25,40,Standard,None,203,14.1958042,10,CA
+Brindisi,High and Exposed,25,50,Waterline,None,203,14.1958042,9,CA
+Amalfi,Above and Exposed,25,50,Waterline,None,203,14.1958042,8,CA
+Paolo Emilio,N/A,,None,N/A,None,135,9.440559441,10,DD
